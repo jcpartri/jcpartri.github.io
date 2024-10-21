@@ -25,3 +25,9 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+.DS_Store
+_python_files
+_python_files/*
+
+_templates
+_templates/*
